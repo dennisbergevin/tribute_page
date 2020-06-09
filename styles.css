@@ -23,9 +23,10 @@ body {
 #image {
     max-width: 100%;
     border-radius: 40px;
-    box-shadow: aliceblue;
     filter: grayscale(50%);
     height: auto;
+    display: block;
+    margin: auto;
 }
 
 #img-caption {
